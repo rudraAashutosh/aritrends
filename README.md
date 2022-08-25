@@ -1,4 +1,4 @@
-# Aritrends
+# <img src="http://aritrends.tech/folder.png" height="35vh"> [Aritrends](http://aritrends.tech)
 
 Open source python lib from file processing work. Instead of writing old multiline codes, just write one line code and complete your work quickly and efficently.
 
