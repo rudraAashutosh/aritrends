@@ -48,6 +48,6 @@ w.zip()
 
 ## Authors
 
-[@aritrends](https://github.com/aritrends.tech)
+[@aritrendstech](https://github.com/aritrends.tech)
 
-[@abhineetraj](https://github.com/abhineetraj1)
+[@abhineetraj1](https://github.com/abhineetraj1)
